@@ -59,24 +59,24 @@
  "window": {
   "kind": "snapshot",
   "days": null,
-  "end": "2026-10-11T16:57:40.246699+00:00"
+  "end": "2026-10-16T13:48:46.366886+00:00"
  },
  "nodes": [
   {
    "id": "analytics",
-   "active": 22,
+   "active": 21,
    "total": 29,
    "category": "Tooling / DevEx",
-   "x": -0.4455,
-   "y": 0.164
+   "x": 0.1994,
+   "y": 0.2121
   },
   {
    "id": "hiero-enterprise-js",
    "active": 8,
    "total": 9,
    "category": "Apps / Integrations",
-   "x": -1.4799,
-   "y": 1.6
+   "x": -1.4895,
+   "y": 0.6004
   },
   {
    "id": "sdk-automations",
@@ -91,16 +91,8 @@
    "active": 5,
    "total": 5,
    "category": "Other",
-   "x": -1.2414,
+   "x": 0.7533,
    "y": -1.6
-  },
-  {
-   "id": "governance",
-   "active": 4,
-   "total": 15,
-   "category": "Governance",
-   "x": 1.4799,
-   "y": 0.3597
   },
   {
    "id": "hiero-x402",
@@ -109,6 +101,14 @@
    "category": "Other",
    "x": -2.25,
    "y": -3.22
+  },
+  {
+   "id": "governance",
+   "active": 3,
+   "total": 15,
+   "category": "Governance",
+   "x": 1.4895,
+   "y": 1.6
   },
   {
    "id": "hiero-checkout",
@@ -127,19 +127,11 @@
    "y": -3.22
   },
   {
-   "id": "hiero-block-verifier-js",
-   "active": 2,
-   "total": 2,
-   "category": "Other",
-   "x": 0.45,
-   "y": -3.22
-  },
-  {
    "id": "hiero-journal-rs",
    "active": 2,
    "total": 2,
    "category": "Other",
-   "x": 1.35,
+   "x": 0.45,
    "y": -3.22
   },
   {
@@ -147,7 +139,7 @@
    "active": 2,
    "total": 2,
    "category": "Other",
-   "x": 2.25,
+   "x": 1.35,
    "y": -3.22
   },
   {
@@ -155,7 +147,7 @@
    "active": 2,
    "total": 2,
    "category": "Other",
-   "x": 3.15,
+   "x": 2.25,
    "y": -3.22
   },
   {
@@ -163,15 +155,15 @@
    "active": 2,
    "total": 2,
    "category": "Other",
-   "x": -3.15,
-   "y": -4.12
+   "x": 3.15,
+   "y": -3.22
   },
   {
-   "id": "agentic-support-hiero",
+   "id": "hiero-block-verifier-js",
    "active": 1,
-   "total": 3,
+   "total": 2,
    "category": "Other",
-   "x": -2.25,
+   "x": -3.15,
    "y": -4.12
   },
   {
@@ -179,7 +171,7 @@
    "active": 1,
    "total": 1,
    "category": "Apps / Integrations",
-   "x": -1.35,
+   "x": -2.25,
    "y": -4.12
   },
   {
@@ -187,7 +179,7 @@
    "active": 1,
    "total": 1,
    "category": "Other",
-   "x": -0.45,
+   "x": -1.35,
    "y": -4.12
   },
   {
@@ -195,13 +187,21 @@
    "active": 1,
    "total": 1,
    "category": "Other",
-   "x": 0.45,
+   "x": -0.45,
    "y": -4.12
   },
   {
    "id": "vscode-hedera-transaction-viewer",
    "active": 1,
    "total": 1,
+   "category": "Other",
+   "x": 0.45,
+   "y": -4.12
+  },
+  {
+   "id": "agentic-support-hiero",
+   "active": 0,
+   "total": 3,
    "category": "Other",
    "x": 1.35,
    "y": -4.12
@@ -256,6 +256,6 @@
    "shared": 4
   }
  ],
- "generated_at": "2026-10-11T16:57:40.246699+00:00",
+ "generated_at": "2026-10-16T13:48:46.366886+00:00",
  "stale": false
 }
